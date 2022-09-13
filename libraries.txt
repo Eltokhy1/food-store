@@ -1,0 +1,2 @@
+lightGallery: ==> https://cdnjs.com/
+slider : ==> https://swiperjs.com/
